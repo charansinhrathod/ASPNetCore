@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Charansinh.BookStore/.vs/Charansinh.BookStore
+/Charansinh.BookStore/Charansinh.BookStore/bin/Debug/netcoreapp3.1
+/Charansinh.BookStore/Charansinh.BookStore/obj
