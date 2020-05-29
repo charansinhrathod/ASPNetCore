@@ -8,9 +8,22 @@ namespace Charansinh.BookStore.Controllers
 {
     public class HomeController:Controller
     {
-        public string Index()
+        //public string Index()
+        //{
+        //    return "Hello From Home Controller.";
+        //}
+        public ViewResult Index()
         {
-            return "Hello From Home Controller.";
+            return View();
+        }
+        public ViewResult AboutUs()
+        {
+            return View();
+        }
+
+        public ViewResult Contactus()
+        {
+            return View();
         }
     }
 }
